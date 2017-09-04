@@ -1,6 +1,6 @@
 ## Pipeline for deploying Prometheus to PCF
 
-This pipeline sets up a Prometheus monitoring environment for PCF.
+This pipeline sets up a Prometheus monitoring environment for 
 
 It can target an ops manager BOSH director or a standalone bosh director to monitor/deploy to.
 
